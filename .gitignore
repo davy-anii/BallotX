@@ -40,3 +40,5 @@ Cargo.lock
 
 # Stellar
 .soroban/
+
+client/
